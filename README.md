@@ -1,3 +1,3 @@
 # stock_price_forecasting
 
-**Stock Market Prediction using LSTM model. The App forecasts Open price of NIFTY 50 index of the next five days using history of 10 days data as an input. Predictions are made using LSTM algorithms. After experiencing in 4 different LSTM models (with different architectures of model and structures of data), build the best LSTM model: multivariate encoder-decoder LSTM model with prior one week’s data as the input. 
+**Stock Market Prediction using LSTM Models: The application predicts the opening price of the NIFTY 50 index for the next five days based on a history of 10 days' data. The predictions utilize LSTM algorithms. After experimenting with four different LSTM models featuring various architectures and data structures, we developed the optimal model: a multivariate encoder-decoder LSTM model using data from the previous week as input.
